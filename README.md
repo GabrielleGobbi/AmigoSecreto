@@ -85,19 +85,29 @@ Clique no botão "Reiniciar" para começar novamente. Todos os participantes e r
 Ideias para incrementar o sistema em atualizações futuras:
 
 Exportação de Resultados: Permitir download do sorteio em PDF ou TXT.
+
 Envio por E-mail: Enviar automaticamente os pares sorteados para cada participante.
+
 Interface Responsiva: Melhorar ainda mais a experiência em dispositivos móveis.
+
 Animações e Temas: Adicionar animações e temas customizáveis.
+
 Histórico de Sorteios: Salvar sorteios anteriores para consulta futura.
+
+
 🖼️ Capturas de Tela
-(Adicione aqui imagens ou GIFs do sistema funcionando para deixar o README mais visual e atraente.)
+
 
 🌟 Contribua com o Projeto!
+
 Adoramos feedbacks e contribuições! 💬 Se você encontrou algum problema ou tem sugestões para melhorar o projeto, sinta-se à vontade para:
 
 Abrir uma Issue.
+
 Enviar um Pull Request.
+
 🛡️ Licença
+
 Este projeto está sob a licença MIT. Isso significa que você pode utilizá-lo, modificá-lo e distribuí-lo livremente, desde que mantenha os créditos.
 
 🎁 Transforme o seu sorteio de amigo secreto em uma experiência ainda mais divertida!
