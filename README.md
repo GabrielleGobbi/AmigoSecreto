@@ -14,34 +14,46 @@ Oferecer uma interface intuitiva e funcional, acessível a todos os usuários.
 
 Cada participante será sorteado para uma única pessoa, sem repetições.
 Nomes duplicados são automaticamente bloqueados.
+
 É possível adicionar participantes usando o botão Adicionar ou pressionando Enter no teclado.
+
 🚀 Funcionalidades
 
 ➕ Adicionar Participantes
+
    Adicione novos nomes à lista de forma simples e rápida.
+
    Suporte para entrada via clique no botão "Adicionar" ou pressionando Enter no teclado.
 
 ➖ Remover Participantes
-
     Exclua facilmente qualquer participante da lista clicando no botão "Remover" ao lado do nome.
 
-🎲 Realizar Sorteio
-    
-    Gera pares de amigo secreto com total justiça, garantindo que:
-    Nenhuma pessoa seja sorteada para si mesma.
-    Todos sejam sorteados exatamente uma vez.
-    A lógica evita duplicatas ou erros no sorteio.
+🎲 Realizar Sorteio  
+
+   Gera pares de amigo secreto com total justiça, garantindo que:
+   
+   Nenhuma pessoa seja sorteada para si mesma.
+   
+   Todos sejam sorteados exatamente uma vez.
+   
+   A lógica evita duplicatas ou erros no sorteio.
 
 🔄 Reiniciar Jogo
-    Comece um novo jogo a qualquer momento com um clique no botão "Reiniciar", limpando a lista e os resultados.
+
+   Comece um novo jogo a qualquer momento com um clique no botão "Reiniciar", limpando a lista e os resultados.
 
 🛠️ Tecnologias Utilizadas
+
 Este projeto foi desenvolvido utilizando:
 
 HTML: Para a estrutura principal do sistema.
+
 CSS: Para estilização, garantindo um design moderno e responsivo.
+
 JavaScript: Para implementar toda a lógica de funcionamento, como adição, remoção, sorteio e reinício.
+
 🖥️ Demonstração
+
 Como Usar:
 
 Clone o repositório:
